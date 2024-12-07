@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: 
+Sitemap: https://shop.satomijin.id.vn/sitemap.xml
